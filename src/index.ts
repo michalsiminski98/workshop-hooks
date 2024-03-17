@@ -1,3 +1,3 @@
-const aws_key = '98JF3fsdeasasddSD49ASD89J3F43409IFASDDSA';
+var aws_key = '98JFasdasd3fsdeasasddSD49ASD89J3F43409IFASDDSA';
 
 console.log(aws_key);
